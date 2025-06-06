@@ -26,7 +26,7 @@ int main(){
     //Imprimindo o novo valor da variável 'a'
     printf("Novo valor de a: %d", a);
 
-    //Variáveis armazenam valores!!
+    //Variáveis armazenam valores!
     int b = 10;
     //Ponteiros armazenam posições na memória!
     int *ponteiro;
