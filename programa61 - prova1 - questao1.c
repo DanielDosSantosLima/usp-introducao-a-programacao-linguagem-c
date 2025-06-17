@@ -16,8 +16,12 @@ historia longa. A frase foi usada por varios\
 seculos por tipografos para...";
 
 int main(){
-    //Questão 1:
-    //Ajustar o programa para contar as ocorrências de cada vogal (maiúsculas e minúsculas) em um texto e apresentar as contagens.
+    /* Questão 1:
+    Ajuste o programa abaixo para contar as ocorrências de cada vogal
+    e, ao final da execução, apresentar as contagens. Tanto maiúsculas
+    quanto minúsculas devem ser contadas. Na folha de respostas, reescreva
+    a função main incluindo os comandos que comp˜oe sua solução
+    */
 
     //Iniciando o contador
     int i = 0;
